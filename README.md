@@ -1,1 +1,2 @@
-# aula-ads-senai
+# Meu primeiro repositório 
+Estudando no SENAI-SP - TAUBATÉ
